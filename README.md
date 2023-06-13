@@ -9,6 +9,8 @@ Please note that this example is purely for educational purposes and serves as a
 
 
 Check both Excel & CSV files to see how final data will look like.
+<img width="1440" alt="Screenshot 2023-06-12 at 11 20 42 PM" src="https://github.com/MagdaSlifierz/DataScraper/assets/49603115/f2b02e34-cf81-47ad-9dcb-d1a05590fe4a">
+
 
 
 
