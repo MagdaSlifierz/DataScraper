@@ -1,4 +1,6 @@
 Data Scraper
+
+
 This is simple scraper that uses Playwright to extract data from Booking.com
 
 This example is made for educational purposese.
